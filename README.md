@@ -51,6 +51,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramulatejavardhan&theme=dark&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
 </p>
+<img src="https://streak-stats.demolab.com?user=ramulatejavardhan&theme=tokyonight" />
 ------------------------------------------------------------------------------------------------------------------------------
 
 [![](https://visitcount.itsvg.in/api?id=Ramulateja&icon=0&color=0)](https://visitcount.itsvg.in)
