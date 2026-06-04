@@ -49,7 +49,7 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ramulatejavardhan&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ramulatejavardhan&theme=tokyonight" alt="GitHub Streak" />
 </p>
 ------------------------------------------------------------------------------------------------------------------------------
 
