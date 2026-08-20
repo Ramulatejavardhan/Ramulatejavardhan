@@ -9,7 +9,7 @@
 ### 🌱 Currently Learning
 - **Python libraries**
 - **APIs**
-- **LLM APIs**
+- **Backend**
 - Building **AI-powered applications**
 
 ---
