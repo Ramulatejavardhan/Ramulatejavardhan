@@ -47,9 +47,9 @@
 </p>
 -----------------------------------------------------------------------------------------------------------------------------
 
-# 📊 GitHub Stats:
+## GitHub Streak
 
-![](https://streak-stats.demolab.com/?user=Ramulatejavardhan&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=Ramulatejavardhan&theme=dark&hide_border=false)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
