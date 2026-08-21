@@ -49,7 +49,7 @@
 
 ## GitHub Streak
 
-![](https://streak-stats.demolab.com/?user=Ramulatejavardhan&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Ramulatejavardhan&theme=dark)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
